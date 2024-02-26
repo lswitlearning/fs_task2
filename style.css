@@ -1,0 +1,4155 @@
+.www-muji-com-by-html {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.www-muji-com-by-html .div {
+  width: 1920px;
+  height: 3353.13px;
+  position: relative;
+}
+
+.www-muji-com-by-html .div-main {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: flex-start;
+  gap: 40px;
+  position: absolute;
+  top: 70px;
+  left: 0;
+}
+
+.www-muji-com-by-html .section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 448px 0.01px;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-muji-com-by-html .div-wrap {
+  align-items: flex-start;
+  padding: 0px 0px 14.99px;
+  position: relative;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  max-width: 1024px;
+  width: 1024px;
+}
+
+.www-muji-com-by-html .div-mainpanel {
+  display: flex;
+  flex-direction: column;
+  max-width: 1024px;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-muji-com-by-html .link {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.www-muji-com-by-html .element-newlife-dp-jpg {
+  position: relative;
+  flex: 1;
+  max-width: 1024px;
+  flex-grow: 1;
+  height: 568.88px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/2024-newlife-dp-jpg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .span-title {
+  display: flex;
+  flex-direction: column;
+  width: 922px;
+  align-items: flex-start;
+  padding: 0px 722.79px 0.19px 0px;
+  position: absolute;
+  top: 529px;
+  left: 10px;
+}
+
+.www-muji-com-by-html .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  text-shadow: 1px 1px 3px #00000080;
+  font-family: var(--www-muji-com-inter-bold-20-02-font-family);
+  font-weight: var(--www-muji-com-inter-bold-20-02-font-weight);
+  color: var(--wwwmujicomnero);
+  font-size: var(--www-muji-com-inter-bold-20-02-font-size);
+  letter-spacing: var(--www-muji-com-inter-bold-20-02-letter-spacing);
+  line-height: var(--www-muji-com-inter-bold-20-02-line-height);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-bold-20-02-font-style);
+}
+
+.www-muji-com-by-html .list {
+  position: relative;
+  width: 1024px;
+  height: 341.33px;
+}
+
+.www-muji-com-by-html .item-margin {
+  display: flex;
+  flex-direction: column;
+  max-width: 265.47px;
+  width: 261px;
+  align-items: flex-start;
+  padding: 20px 20.47px 0px 0px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-muji-com-by-html .item {
+  display: flex;
+  flex-direction: column;
+  max-width: 245px;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-muji-com-by-html .before {
+  position: absolute;
+  width: 241px;
+  height: 151px;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.04) 20%, rgba(0, 0, 0, 0.2) 100%);
+}
+
+.www-muji-com-by-html .link-2 {
+  display: flex;
+  flex-direction: column;
+  min-height: 60px;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-muji-com-by-html .span-subpanel-image {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-muji-com-by-html .element-new-arriaval {
+  position: relative;
+  flex: 1;
+  max-width: 240.63px;
+  flex-grow: 1;
+  height: 150.94px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/2023aw-new-arriaval-640-en-jpg@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .div-wrapper {
+  width: 217px;
+  padding: 0px 129.11px 0.69px 0px;
+  position: absolute;
+  top: 118px;
+  left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  text-shadow: 1px 1px 3px #00000080;
+  font-family: var(--www-muji-com-inter-bold-14-63-font-family);
+  font-weight: var(--www-muji-com-inter-bold-14-63-font-weight);
+  color: var(--wwwmujicomnero);
+  font-size: var(--www-muji-com-inter-bold-14-63-font-size);
+  letter-spacing: var(--www-muji-com-inter-bold-14-63-letter-spacing);
+  line-height: var(--www-muji-com-inter-bold-14-63-line-height);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-bold-14-63-font-style);
+}
+
+.www-muji-com-by-html .item-wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 265.47px;
+  width: 261px;
+  align-items: flex-start;
+  padding: 20px 20.47px 0px 0px;
+  position: absolute;
+  top: 0;
+  left: 261px;
+}
+
+.www-muji-com-by-html .item-2 {
+  max-width: 245px;
+  padding: 0px 0px 0.55px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .element {
+  position: relative;
+  flex: 1;
+  max-width: 240.63px;
+  flex-grow: 1;
+  height: 150.39px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/640x400byodtakeaway-jpg-1@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .caf-meal-MUJI-mobile-wrapper {
+  width: 217px;
+  padding: 0px 51.45px 0.68px 0px;
+  position: absolute;
+  top: 73px;
+  left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .caf-meal-MUJI-mobile {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  text-shadow: 1px 1px 3px #00000080;
+  font-family: var(--www-muji-com-inter-bold-14-75-font-family);
+  font-weight: var(--www-muji-com-inter-bold-14-75-font-weight);
+  color: var(--wwwmujicomnero);
+  font-size: var(--www-muji-com-inter-bold-14-75-font-size);
+  letter-spacing: var(--www-muji-com-inter-bold-14-75-letter-spacing);
+  line-height: var(--www-muji-com-inter-bold-14-75-line-height);
+  font-style: var(--www-muji-com-inter-bold-14-75-font-style);
+}
+
+.www-muji-com-by-html .item-margin-2 {
+  display: flex;
+  flex-direction: column;
+  max-width: 265.47px;
+  width: 261px;
+  align-items: flex-start;
+  padding: 20px 20.47px 0px 0px;
+  position: absolute;
+  top: 0;
+  left: 522px;
+}
+
+.www-muji-com-by-html .IG-gift-en {
+  position: relative;
+  flex: 1;
+  max-width: 240.63px;
+  flex-grow: 1;
+  height: 150.39px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/ig-gift-640x400-en-jpg@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .online-shop-wrapper {
+  width: 217px;
+  padding: 0px 45.8px 0.68px 0px;
+  position: absolute;
+  top: 95px;
+  left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .online-shop {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  text-shadow: 1px 1px 3px #00000080;
+  font-family: var(--www-muji-com-inter-bold-14-88-font-family);
+  font-weight: var(--www-muji-com-inter-bold-14-88-font-weight);
+  color: var(--wwwmujicomnero);
+  font-size: var(--www-muji-com-inter-bold-14-88-font-size);
+  letter-spacing: var(--www-muji-com-inter-bold-14-88-letter-spacing);
+  line-height: var(--www-muji-com-inter-bold-14-88-line-height);
+  font-style: var(--www-muji-com-inter-bold-14-88-font-style);
+}
+
+.www-muji-com-by-html .item-margin-3 {
+  display: flex;
+  flex-direction: column;
+  max-width: 245px;
+  width: 241px;
+  align-items: flex-start;
+  padding: 20px 0px 0px;
+  position: absolute;
+  top: 0;
+  left: 783px;
+}
+
+.www-muji-com-by-html .element-jpg {
+  position: relative;
+  flex: 1;
+  max-width: 240.63px;
+  flex-grow: 1;
+  height: 150.39px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/640-jpg-3@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .span-title-2 {
+  width: 217px;
+  padding: 0px 36.65px 0.69px 0px;
+  position: absolute;
+  top: 117px;
+  left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  text-shadow: 1px 1px 3px #00000080;
+  font-family: var(--www-muji-com-inter-bold-15-38-font-family);
+  font-weight: var(--www-muji-com-inter-bold-15-38-font-weight);
+  color: var(--wwwmujicomnero);
+  font-size: var(--www-muji-com-inter-bold-15-38-font-size);
+  letter-spacing: var(--www-muji-com-inter-bold-15-38-letter-spacing);
+  line-height: var(--www-muji-com-inter-bold-15-38-line-height);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-bold-15-38-font-style);
+}
+
+.www-muji-com-by-html .item-margin-4 {
+  display: flex;
+  flex-direction: column;
+  max-width: 265.47px;
+  width: 261px;
+  align-items: flex-start;
+  padding: 20px 20.47px 0px 0px;
+  position: absolute;
+  top: 171px;
+  left: 0;
+}
+
+.www-muji-com-by-html .before-2 {
+  width: 241px;
+  height: 150px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.04) 20%, rgba(0, 0, 0, 0.2) 100%);
+}
+
+.www-muji-com-by-html .element-jpg-2 {
+  flex: 1;
+  max-width: 240.63px;
+  flex-grow: 1;
+  height: 150.39px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/640-jpg-2@2x.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .MUJI-clothing-wrapper {
+  width: 217px;
+  padding: 0px 28.98px 0.69px 0px;
+  position: absolute;
+  top: 95px;
+  left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  text-shadow: 1px 1px 3px #00000080;
+  font-family: var(--www-muji-com-inter-bold-15-25-font-family);
+  font-weight: var(--www-muji-com-inter-bold-15-25-font-weight);
+  color: var(--wwwmujicomnero);
+  font-size: var(--www-muji-com-inter-bold-15-25-font-size);
+  letter-spacing: var(--www-muji-com-inter-bold-15-25-letter-spacing);
+  line-height: var(--www-muji-com-inter-bold-15-25-line-height);
+  font-style: var(--www-muji-com-inter-bold-15-25-font-style);
+}
+
+.www-muji-com-by-html .item-margin-5 {
+  display: flex;
+  flex-direction: column;
+  max-width: 265.47px;
+  width: 261px;
+  align-items: flex-start;
+  padding: 20px 20.47px 0px 0px;
+  position: absolute;
+  top: 171px;
+  left: 261px;
+}
+
+.www-muji-com-by-html .main-jpg {
+  position: relative;
+  flex: 1;
+  max-width: 240.63px;
+  flex-grow: 1;
+  height: 150.39px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/main-jpg@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .food-market-wrapper {
+  width: 217px;
+  padding: 0px 59.13px 0.68px 0px;
+  position: absolute;
+  top: 73px;
+  left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .food-market {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  text-shadow: 1px 1px 3px #00000080;
+  font-family: var(--www-muji-com-inter-bold-15-13-font-family);
+  font-weight: var(--www-muji-com-inter-bold-15-13-font-weight);
+  color: var(--wwwmujicomnero);
+  font-size: var(--www-muji-com-inter-bold-15-13-font-size);
+  letter-spacing: var(--www-muji-com-inter-bold-15-13-letter-spacing);
+  line-height: var(--www-muji-com-inter-bold-15-13-line-height);
+  font-style: var(--www-muji-com-inter-bold-15-13-font-style);
+}
+
+.www-muji-com-by-html .item-margin-6 {
+  display: flex;
+  flex-direction: column;
+  max-width: 265.47px;
+  width: 261px;
+  align-items: flex-start;
+  padding: 20px 20.47px 0px 0px;
+  position: absolute;
+  top: 171px;
+  left: 522px;
+}
+
+.www-muji-com-by-html .element-webp {
+  position: relative;
+  flex: 1;
+  max-width: 240.63px;
+  flex-grow: 1;
+  height: 150.39px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/400x-webp@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .span-title-3 {
+  width: 217px;
+  padding: 0px 40.51px 0.69px 0px;
+  position: absolute;
+  top: 117px;
+  left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-5 {
+  text-shadow: 1px 1px 3px #00000080;
+  font-weight: var(--www-muji-com-inter-bold-15-font-weight);
+  color: var(--wwwmujicomnero);
+  font-size: var(--www-muji-com-inter-bold-15-font-size);
+  line-height: var(--www-muji-com-inter-bold-15-line-height);
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-muji-com-inter-bold-15-font-family);
+  letter-spacing: var(--www-muji-com-inter-bold-15-letter-spacing);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-bold-15-font-style);
+}
+
+.www-muji-com-by-html .item-margin-7 {
+  display: flex;
+  flex-direction: column;
+  max-width: 245px;
+  width: 241px;
+  align-items: flex-start;
+  padding: 20px 0px 0px;
+  position: absolute;
+  top: 171px;
+  left: 783px;
+}
+
+.www-muji-com-by-html .recruitment {
+  position: relative;
+  flex: 1;
+  max-width: 240.63px;
+  flex-grow: 1;
+  height: 150.39px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/recruitment-640x400-jpg@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .MUJI-windsor-house-wrapper {
+  width: 217px;
+  padding: 0px 1.57px 0.68px 0px;
+  position: absolute;
+  top: 73px;
+  left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .MUJI-windsor-house {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  text-shadow: 1px 1px 3px #00000080;
+  font-family: var(--www-muji-com-inter-bold-15-5-font-family);
+  font-weight: var(--www-muji-com-inter-bold-15-5-font-weight);
+  color: var(--wwwmujicomnero);
+  font-size: var(--www-muji-com-inter-bold-15-5-font-size);
+  letter-spacing: var(--www-muji-com-inter-bold-15-5-letter-spacing);
+  line-height: var(--www-muji-com-inter-bold-15-5-line-height);
+  font-style: var(--www-muji-com-inter-bold-15-5-font-style);
+}
+
+.www-muji-com-by-html .div-more {
+  display: flex;
+  flex-direction: column;
+  max-width: 1024px;
+  width: 1024px;
+  align-items: flex-end;
+  padding: 0px 20px 0.79px 897.39px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-top: -0.8px;
+}
+
+.www-muji-com-by-html .link-more-campaigns {
+  margin-left: -0.39px;
+  font-size: var(--www-muji-com-inter-regular-13-34-font-size);
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-muji-com-inter-regular-13-34-font-family);
+  font-weight: var(--www-muji-com-inter-regular-13-34-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  text-align: right;
+  letter-spacing: var(--www-muji-com-inter-regular-13-34-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-13-34-line-height);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-regular-13-34-font-style);
+}
+
+.www-muji-com-by-html .after {
+  position: absolute;
+  width: 7px;
+  height: 7px;
+  top: 5px;
+  left: 1012px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-color: var(--wwwmujicomgray);
+  transform: rotate(45deg);
+}
+
+.www-muji-com-by-html .section-2 {
+  height: 524.59px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-muji-com-by-html .overlap-group {
+  position: absolute;
+  width: 1024px;
+  height: 21px;
+  top: -3px;
+  left: 448px;
+}
+
+.www-muji-com-by-html .heading {
+  display: flex;
+  flex-direction: column;
+  max-width: 1024px;
+  width: 1024px;
+  align-items: flex-start;
+  padding: 0px 852px 0px 0px;
+  position: absolute;
+  top: 3px;
+  left: 0;
+}
+
+.www-muji-com-by-html .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwmujicommine-shaft);
+  font-size: 17.6px;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .div-more-2 {
+  padding: 0px 20px 0.79px 912.95px;
+  display: flex;
+  flex-direction: column;
+  max-width: 1024px;
+  width: 1024px;
+  align-items: flex-end;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-muji-com-by-html .link-more-products {
+  font-size: var(--www-muji-com-inter-regular-13-13-font-size);
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-muji-com-inter-regular-13-13-font-family);
+  font-weight: var(--www-muji-com-inter-regular-13-13-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  text-align: right;
+  letter-spacing: var(--www-muji-com-inter-regular-13-13-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-13-13-line-height);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-regular-13-13-font-style);
+}
+
+.www-muji-com-by-html .div-wrap-2 {
+  align-items: center;
+  gap: 15px;
+  padding: 0px 0px 15px;
+  position: absolute;
+  top: 32px;
+  left: 448px;
+  display: flex;
+  flex-direction: column;
+  max-width: 1024px;
+  width: 1024px;
+}
+
+.www-muji-com-by-html .list-2 {
+  position: relative;
+  width: 1024px;
+  height: 141px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--wwwmujicomgallery);
+}
+
+.www-muji-com-by-html .item-margin-8 {
+  display: flex;
+  flex-direction: column;
+  width: 174px;
+  align-items: flex-start;
+  padding: 0px 20.47px 5px 0px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-muji-com-by-html .link-wrapper {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-26.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .span-title-wrapper {
+  align-self: stretch;
+  width: 100%;
+  height: 60px;
+  position: relative;
+}
+
+.www-muji-com-by-html .ladies-wear-wrapper {
+  width: 69px;
+  padding: 0px 0px 0.4px;
+  position: relative;
+  top: 22px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-muji-com-inter-regular-11-44-font-family);
+  font-weight: var(--www-muji-com-inter-regular-11-44-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-11-44-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-11-44-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-11-44-line-height);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-regular-11-44-font-style);
+}
+
+.www-muji-com-by-html .item-margin-9 {
+  display: flex;
+  flex-direction: column;
+  width: 174px;
+  align-items: flex-start;
+  padding: 0px 20.47px 5px 0px;
+  position: absolute;
+  top: 0;
+  left: 174px;
+}
+
+.www-muji-com-by-html .item-3 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-25.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .men-s-wear-wrapper {
+  width: 63px;
+  padding: 0px 0px 0.4px;
+  position: relative;
+  top: 22px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .item-margin-10 {
+  display: flex;
+  flex-direction: column;
+  width: 174px;
+  align-items: flex-start;
+  padding: 0px 20.47px 5px 0px;
+  position: absolute;
+  top: 0;
+  left: 348px;
+}
+
+.www-muji-com-by-html .item-4 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-24.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .span-title-4 {
+  width: 63px;
+  padding: 0px 0.01px 0.4px 0px;
+  position: relative;
+  top: 22px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-8 {
+  font-weight: var(--www-muji-com-inter-regular-11-63-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-11-63-font-size);
+  line-height: var(--www-muji-com-inter-regular-11-63-line-height);
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-muji-com-inter-regular-11-63-font-family);
+  letter-spacing: var(--www-muji-com-inter-regular-11-63-letter-spacing);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-regular-11-63-font-style);
+}
+
+.www-muji-com-by-html .item-margin-11 {
+  display: flex;
+  flex-direction: column;
+  width: 174px;
+  align-items: flex-start;
+  padding: 0px 20.47px 5px 0px;
+  position: absolute;
+  top: 0;
+  left: 522px;
+}
+
+.www-muji-com-by-html .item-5 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-23.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .span-title-5 {
+  width: 37px;
+  padding: 0px 0px 0.4px;
+  position: relative;
+  top: 22px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-9 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.3px;
+  font-family: var(--www-muji-com-inter-regular-11-44-font-family);
+  font-weight: var(--www-muji-com-inter-regular-11-44-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-11-44-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-11-44-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-11-44-line-height);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-regular-11-44-font-style);
+}
+
+.www-muji-com-by-html .item-margin-12 {
+  display: flex;
+  flex-direction: column;
+  width: 174px;
+  align-items: flex-start;
+  padding: 0px 20.47px 5px 0px;
+  position: absolute;
+  top: 0;
+  left: 696px;
+}
+
+.www-muji-com-by-html .item-6 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-22.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .span-title-6 {
+  width: 45px;
+  padding: 0px 0px 0.4px;
+  position: relative;
+  top: 22px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-10 {
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.3px;
+  font-family: var(--www-muji-com-inter-regular-11-25-font-family);
+  font-weight: var(--www-muji-com-inter-regular-11-25-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-11-25-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-11-25-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-11-25-line-height);
+  white-space: nowrap;
+  position: relative;
+  font-style: var(--www-muji-com-inter-regular-11-25-font-style);
+}
+
+.www-muji-com-by-html .item-margin-13 {
+  display: flex;
+  flex-direction: column;
+  width: 154px;
+  align-items: flex-start;
+  padding: 0px 0px 5px;
+  position: absolute;
+  top: 0;
+  left: 870px;
+}
+
+.www-muji-com-by-html .item-7 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-21.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .kid-s-accessories-wrapper {
+  width: 93px;
+  padding: 0px 0px 0.4px;
+  position: relative;
+  top: 22px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-11 {
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-muji-com-inter-regular-11-06-font-family);
+  font-weight: var(--www-muji-com-inter-regular-11-06-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-11-06-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-11-06-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-11-06-line-height);
+  white-space: nowrap;
+  position: relative;
+  font-style: var(--www-muji-com-inter-regular-11-06-font-style);
+}
+
+.www-muji-com-by-html .item-margin-14 {
+  display: flex;
+  flex-direction: column;
+  width: 174px;
+  align-items: flex-start;
+  padding: 0px 20.47px 5px 0px;
+  position: absolute;
+  top: 65px;
+  left: 0;
+}
+
+.www-muji-com-by-html .item-8 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-20.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .span-title-7 {
+  width: 66px;
+  padding: 0px 1.42e-14px 0.4px 0px;
+  position: relative;
+  top: 22px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-12 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.23px;
+  font-family: var(--www-muji-com-inter-regular-10-5-font-family);
+  font-weight: var(--www-muji-com-inter-regular-10-5-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-10-5-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-10-5-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-10-5-line-height);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-regular-10-5-font-style);
+}
+
+.www-muji-com-by-html .item-margin-15 {
+  display: flex;
+  flex-direction: column;
+  width: 174px;
+  align-items: flex-start;
+  padding: 0px 20.47px 5px 0px;
+  position: absolute;
+  top: 65px;
+  left: 174px;
+}
+
+.www-muji-com-by-html .item-9 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-19.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .span-title-8 {
+  width: 65px;
+  padding: 0px 0px 0.4px;
+  position: relative;
+  top: 22px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-13 {
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.31px;
+  font-family: var(--www-muji-com-inter-regular-11-25-font-family);
+  font-weight: var(--www-muji-com-inter-regular-11-25-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-11-25-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-11-25-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-11-25-line-height);
+  white-space: nowrap;
+  position: relative;
+  font-style: var(--www-muji-com-inter-regular-11-25-font-style);
+}
+
+.www-muji-com-by-html .item-10 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-18.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .span-title-9 {
+  width: 48px;
+  padding: 0px 2.84e-14px 0.4px 0px;
+  position: relative;
+  top: 22px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-14 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.97px;
+  font-family: var(--www-muji-com-inter-regular-11-44-font-family);
+  font-weight: var(--www-muji-com-inter-regular-11-44-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-11-44-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-11-44-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-11-44-line-height);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-regular-11-44-font-style);
+}
+
+.www-muji-com-by-html .item-11 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-17.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .span-title-10 {
+  width: 73px;
+  padding: 0px 0px 0.4px;
+  position: relative;
+  top: 22px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .item-12 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-16.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .span-title-11 {
+  width: 39px;
+  padding: 0px 0px 0.4px;
+  position: relative;
+  top: 22px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-15 {
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-muji-com-inter-regular-11-25-font-family);
+  font-weight: var(--www-muji-com-inter-regular-11-25-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-11-25-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-11-25-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-11-25-line-height);
+  white-space: nowrap;
+  position: relative;
+  font-style: var(--www-muji-com-inter-regular-11-25-font-style);
+}
+
+.www-muji-com-by-html .item-13 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-15.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .span-title-12 {
+  width: 59px;
+  padding: 0px 0px 0.4px;
+  position: relative;
+  top: 22px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .item-14 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-14.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .span-title-13 {
+  width: 77px;
+  padding: 0px 0px 0.4px;
+  position: relative;
+  top: 22px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .item-15 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-13.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .kitchenware-wrapper {
+  width: 97px;
+  padding: 0px 26.17px 0.39px 0px;
+  position: relative;
+  top: 13px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .kitchenware {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-muji-com-inter-regular-10-13-font-family);
+  font-weight: var(--www-muji-com-inter-regular-10-13-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-10-13-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-10-13-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-10-13-line-height);
+  font-style: var(--www-muji-com-inter-regular-10-13-font-style);
+}
+
+.www-muji-com-by-html .item-16 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-12.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .span-title-14 {
+  width: 54px;
+  padding: 0px 2.84e-14px 0.4px 0px;
+  position: relative;
+  top: 22px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .item-17 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-11.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .bodycare-skincare-wrapper {
+  width: 97px;
+  padding: 0px 41.51px 0.39px 0px;
+  position: relative;
+  top: 13px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .bodycare-skincare {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.92px;
+  font-family: var(--www-muji-com-inter-regular-10-13-font-family);
+  font-weight: var(--www-muji-com-inter-regular-10-13-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-10-13-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-10-13-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-10-13-line-height);
+  font-style: var(--www-muji-com-inter-regular-10-13-font-style);
+}
+
+.www-muji-com-by-html .item-margin-16 {
+  display: flex;
+  flex-direction: column;
+  width: 174px;
+  align-items: flex-start;
+  padding: 0px 20.47px 5px 0px;
+  position: absolute;
+  top: 65px;
+  left: 348px;
+}
+
+.www-muji-com-by-html .item-18 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-10.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .span-title-15 {
+  width: 45px;
+  padding: 0px 0.01px 0.4px 0px;
+  position: relative;
+  top: 22px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-16 {
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.65px;
+  font-family: var(--www-muji-com-inter-regular-11-44-font-family);
+  font-weight: var(--www-muji-com-inter-regular-11-44-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-11-44-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-11-44-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-11-44-line-height);
+  white-space: nowrap;
+  position: relative;
+  font-style: var(--www-muji-com-inter-regular-11-44-font-style);
+}
+
+.www-muji-com-by-html .item-margin-17 {
+  display: flex;
+  flex-direction: column;
+  width: 174px;
+  align-items: flex-start;
+  padding: 0px 20.47px 5px 0px;
+  position: absolute;
+  top: 65px;
+  left: 522px;
+}
+
+.www-muji-com-by-html .item-19 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-9.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .cosmetics-fragrance-wrapper {
+  width: 97px;
+  padding: 0px 36.19px 0.39px 0px;
+  position: relative;
+  top: 13px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .cosmetics-fragrance {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.6px;
+  font-family: var(--www-muji-com-inter-regular-10-13-font-family);
+  font-weight: var(--www-muji-com-inter-regular-10-13-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-10-13-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-10-13-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-10-13-line-height);
+  font-style: var(--www-muji-com-inter-regular-10-13-font-style);
+}
+
+.www-muji-com-by-html .item-margin-18 {
+  display: flex;
+  flex-direction: column;
+  width: 174px;
+  align-items: flex-start;
+  padding: 0px 20.47px 5px 0px;
+  position: absolute;
+  top: 65px;
+  left: 696px;
+}
+
+.www-muji-com-by-html .item-20 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-8.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .accessories-travel-wrapper {
+  width: 97px;
+  padding: 0px 25px 0.39px 0px;
+  position: relative;
+  top: 13px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .accessories-travel {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-muji-com-inter-regular-10-5-font-family);
+  font-weight: var(--www-muji-com-inter-regular-10-5-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-10-5-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-10-5-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-10-5-line-height);
+  font-style: var(--www-muji-com-inter-regular-10-5-font-style);
+}
+
+.www-muji-com-by-html .item-margin-19 {
+  display: flex;
+  flex-direction: column;
+  width: 154px;
+  align-items: flex-start;
+  padding: 0px 0px 5px;
+  position: absolute;
+  top: 65px;
+  left: 870px;
+}
+
+.www-muji-com-by-html .item-21 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-7.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .span-title-16 {
+  width: 35px;
+  padding: 0px 0px 0.4px;
+  position: relative;
+  top: 22px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-17 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.66px;
+  font-family: var(--www-muji-com-inter-regular-11-44-font-family);
+  font-weight: var(--www-muji-com-inter-regular-11-44-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-11-44-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-11-44-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-11-44-line-height);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-regular-11-44-font-style);
+}
+
+.www-muji-com-by-html .list-3 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1024px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0px 0px;
+  padding: 0px 153.69px 11px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--wwwmujicomgallery);
+}
+
+.www-muji-com-by-html .item-margin-20 {
+  display: flex;
+  flex-direction: column;
+  width: 174.06px;
+  align-items: flex-start;
+  padding: 0px 20.47px 5px 0px;
+  position: relative;
+}
+
+.www-muji-com-by-html .item-22 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-6.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .span-title-17 {
+  width: 67px;
+  padding: 0px 0px 0.4px;
+  position: relative;
+  top: 22px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-18 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.28px;
+  font-family: var(--www-muji-com-inter-regular-11-25-font-family);
+  font-weight: var(--www-muji-com-inter-regular-11-25-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-11-25-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-11-25-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-11-25-line-height);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-regular-11-25-font-style);
+}
+
+.www-muji-com-by-html .item-23 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-5.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .span-title-18 {
+  width: 89px;
+  padding: 0px 0px 0.4px;
+  position: relative;
+  top: 22px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-19 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.61px;
+  font-family: var(--www-muji-com-inter-regular-11-44-font-family);
+  font-weight: var(--www-muji-com-inter-regular-11-44-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-11-44-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-11-44-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-11-44-line-height);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-regular-11-44-font-style);
+}
+
+.www-muji-com-by-html .item-24 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-4.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .span-title-19 {
+  width: 39px;
+  padding: 0px 0.01px 0.4px 0px;
+  position: relative;
+  top: 22px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .item-25 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-3.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .chocolates-candies-wrapper {
+  width: 97px;
+  padding: 0px 32.17px 0.39px 0px;
+  position: relative;
+  top: 13px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .chocolates-candies {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.58px;
+  font-family: var(--www-muji-com-inter-regular-10-13-font-family);
+  font-weight: var(--www-muji-com-inter-regular-10-13-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-10-13-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-10-13-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-10-13-line-height);
+  font-style: var(--www-muji-com-inter-regular-10-13-font-style);
+}
+
+.www-muji-com-by-html .item-26 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-2.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .span-title-20 {
+  width: 28px;
+  padding: 0px 1.78e-14px 0.4px 0px;
+  position: relative;
+  top: 22px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-20 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.98px;
+  font-family: var(--www-muji-com-inter-regular-11-44-font-family);
+  font-weight: var(--www-muji-com-inter-regular-11-44-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-11-44-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-11-44-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-11-44-line-height);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-regular-11-44-font-style);
+}
+
+.www-muji-com-by-html .list-4 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1024px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0px 0px;
+  padding: 0px 675.88px 10px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-muji-com-by-html .item-27 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item-1.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .MUJI-green-interior-wrapper {
+  width: 74px;
+  padding: 0px 4.26e-14px 0.39px 0px;
+  position: relative;
+  top: 13px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .MUJI-green-interior {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-muji-com-inter-regular-11-25-font-family);
+  font-weight: var(--www-muji-com-inter-regular-11-25-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-11-25-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-11-25-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-11-25-line-height);
+  font-style: var(--www-muji-com-inter-regular-11-25-font-style);
+}
+
+.www-muji-com-by-html .item-28 {
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/item.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .MUJI-green-gardening-wrapper {
+  width: 89px;
+  padding: 0px 0px 0.39px;
+  position: relative;
+  top: 13px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .MUJI-green-gardening {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.28px;
+  font-family: var(--www-muji-com-inter-regular-11-44-font-family);
+  font-weight: var(--www-muji-com-inter-regular-11-44-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-11-44-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-11-44-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-11-44-line-height);
+  font-style: var(--www-muji-com-inter-regular-11-44-font-style);
+}
+
+.www-muji-com-by-html .section-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 18px;
+  padding: 0px 448px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-muji-com-by-html .heading-2 {
+  max-width: 1024px;
+  width: 1024px;
+  padding: 0px 911.94px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-21 {
+  font-weight: 700;
+  color: var(--wwwmujicommine-shaft);
+  font-size: 17.3px;
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .list-wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 1024px;
+  width: 1024px;
+  align-items: center;
+  padding: 0px 0px 15px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-muji-com-by-html .list-5 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1024px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0px 0px;
+  padding: 0px 0.05px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-muji-com-by-html .item-margin-21 {
+  display: flex;
+  flex-direction: column;
+  width: 348.14px;
+  align-items: flex-start;
+  padding: 0px 20.47px 0px 0px;
+  position: relative;
+}
+
+.www-muji-com-by-html .item-29 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .before-3 {
+  width: 328px;
+  height: 205px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.04) 20%, rgba(0, 0, 0, 0.2) 100%);
+}
+
+.www-muji-com-by-html .link-3 {
+  display: flex;
+  flex-direction: column;
+  min-height: 60px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.www-muji-com-by-html .element-xbyodtakeaway {
+  position: relative;
+  align-self: stretch;
+  max-width: 327.67px;
+  width: 100%;
+  height: 204.78px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/640x400byodtakeaway-jpg@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .span-title-21 {
+  width: 295px;
+  padding: 0px 129.78px 0.68px 0px;
+  position: absolute;
+  top: 127px;
+  left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .element-iae-jpg {
+  position: relative;
+  align-self: stretch;
+  max-width: 327.67px;
+  width: 100%;
+  height: 204.78px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/201412-iae-jpg@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .span-title-22 {
+  width: 295px;
+  padding: 0px 63.39px 0.69px 0px;
+  position: absolute;
+  top: 172px;
+  left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-22 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  text-shadow: 1px 1px 3px #00000080;
+  font-family: var(--www-muji-com-inter-bold-15-13-font-family);
+  font-weight: var(--www-muji-com-inter-bold-15-13-font-weight);
+  color: var(--wwwmujicomnero);
+  font-size: var(--www-muji-com-inter-bold-15-13-font-size);
+  letter-spacing: var(--www-muji-com-inter-bold-15-13-letter-spacing);
+  line-height: var(--www-muji-com-inter-bold-15-13-line-height);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-bold-15-13-font-style);
+}
+
+.www-muji-com-by-html .item-30 {
+  width: 327.67px;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .embordiery-jpg {
+  position: relative;
+  align-self: stretch;
+  max-width: 327.67px;
+  width: 100%;
+  height: 204.78px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/embordiery-jpg@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .span-title-23 {
+  width: 295px;
+  padding: 0px 144.59px 0.69px 0px;
+  position: absolute;
+  top: 172px;
+  left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .heading-3 {
+  max-width: 1024px;
+  width: 1024px;
+  padding: 0px 912.95px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-23 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwmujicommine-shaft);
+  font-size: 17.6px;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .list-6 {
+  position: relative;
+  width: 1024px;
+  height: 430.03px;
+}
+
+.www-muji-com-by-html .item-margin-22 {
+  display: flex;
+  flex-direction: column;
+  width: 348px;
+  align-items: flex-start;
+  padding: 0px 20.47px 0px 0px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-muji-com-by-html .element-mp-jpg {
+  position: relative;
+  align-self: stretch;
+  max-width: 327.67px;
+  width: 100%;
+  height: 204.78px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/2018-mp-jpg@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .span-title-24 {
+  width: 295px;
+  padding: 0px 183.75px 0.69px 0px;
+  position: absolute;
+  top: 172px;
+  left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-24 {
+  width: fit-content;
+  margin-top: -1px;
+  text-shadow: 1px 1px 3px #00000080;
+  font-family: var(--www-muji-com-inter-bold-14-88-font-family);
+  font-weight: var(--www-muji-com-inter-bold-14-88-font-weight);
+  color: var(--wwwmujicomnero);
+  font-size: var(--www-muji-com-inter-bold-14-88-font-size);
+  letter-spacing: var(--www-muji-com-inter-bold-14-88-letter-spacing);
+  line-height: var(--www-muji-com-inter-bold-14-88-line-height);
+  white-space: nowrap;
+  position: relative;
+  font-style: var(--www-muji-com-inter-bold-14-88-font-style);
+}
+
+.www-muji-com-by-html .item-margin-23 {
+  display: flex;
+  flex-direction: column;
+  width: 348px;
+  align-items: flex-start;
+  padding: 0px 20.47px 0px 0px;
+  position: absolute;
+  top: 0;
+  left: 348px;
+}
+
+.www-muji-com-by-html .foodmarket-jpg {
+  position: relative;
+  align-self: stretch;
+  max-width: 327.67px;
+  width: 100%;
+  height: 204.78px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/foodmarket-jpg@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .span-title-25 {
+  width: 295px;
+  padding: 0px 199.76px 0.69px 0px;
+  position: absolute;
+  top: 172px;
+  left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-25 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  text-shadow: 1px 1px 3px #00000080;
+  font-family: var(--www-muji-com-inter-bold-14-75-font-family);
+  font-weight: var(--www-muji-com-inter-bold-14-75-font-weight);
+  color: var(--wwwmujicomnero);
+  font-size: var(--www-muji-com-inter-bold-14-75-font-size);
+  letter-spacing: var(--www-muji-com-inter-bold-14-75-letter-spacing);
+  line-height: var(--www-muji-com-inter-bold-14-75-line-height);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-bold-14-75-font-style);
+}
+
+.www-muji-com-by-html .item-31 {
+  width: 328px;
+  position: absolute;
+  top: 0;
+  left: 696px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .mujibooksmonthly-jpg {
+  position: relative;
+  align-self: stretch;
+  max-width: 327.67px;
+  width: 100%;
+  height: 204.78px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/mujibooksmonthly-jpg@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .MUJI-BOOKS-wrapper {
+  width: 295px;
+  padding: 0px 60.23px 0.69px 0px;
+  position: absolute;
+  top: 149px;
+  left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .item-margin-24 {
+  display: flex;
+  flex-direction: column;
+  width: 348px;
+  align-items: flex-start;
+  padding: 20.47px 20.47px 0px 0px;
+  position: absolute;
+  top: 205px;
+  left: 0;
+}
+
+.www-muji-com-by-html .element-jpg-3 {
+  align-self: stretch;
+  max-width: 327.67px;
+  width: 100%;
+  height: 204.78px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/640-jpg-1@2x.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .span-title-26 {
+  width: 295px;
+  padding: 0px 108.19px 0.69px 0px;
+  position: absolute;
+  top: 172px;
+  left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .item-margin-25 {
+  display: flex;
+  flex-direction: column;
+  width: 348px;
+  align-items: flex-start;
+  padding: 20.47px 20.47px 0px 0px;
+  position: absolute;
+  top: 205px;
+  left: 348px;
+}
+
+.www-muji-com-by-html .element-jpg-4 {
+  align-self: stretch;
+  max-width: 327.67px;
+  width: 100%;
+  height: 204.78px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/640-jpg@2x.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .span-title-27 {
+  width: 295px;
+  padding: 0px 118.84px 0.69px 0px;
+  position: absolute;
+  top: 172px;
+  left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-26 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  text-shadow: 1px 1px 3px #00000080;
+  font-family: var(--www-muji-com-inter-bold-15-5-font-family);
+  font-weight: var(--www-muji-com-inter-bold-15-5-font-weight);
+  color: var(--wwwmujicomnero);
+  font-size: var(--www-muji-com-inter-bold-15-5-font-size);
+  letter-spacing: var(--www-muji-com-inter-bold-15-5-letter-spacing);
+  line-height: var(--www-muji-com-inter-bold-15-5-line-height);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-bold-15-5-font-style);
+}
+
+.www-muji-com-by-html .item-margin-26 {
+  display: flex;
+  flex-direction: column;
+  width: 328px;
+  align-items: flex-start;
+  padding: 20.47px 0px 0px;
+  position: absolute;
+  top: 205px;
+  left: 696px;
+}
+
+.www-muji-com-by-html .store-bz-hr {
+  position: relative;
+  align-self: stretch;
+  max-width: 327.67px;
+  width: 100%;
+  height: 204.78px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/store-bz-hr-640x400-en-jpg@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .span-title-28 {
+  width: 295px;
+  padding: 0px 185.51px 0.69px 0px;
+  position: absolute;
+  top: 172px;
+  left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .section-4 {
+  height: 281.59px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-muji-com-by-html .heading-4 {
+  max-width: 1024px;
+  width: 1024px;
+  padding: 0px 873.98px 0px 0px;
+  position: absolute;
+  top: 3px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-27 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.98px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwmujicommine-shaft);
+  font-size: 17.6px;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .div-more-3 {
+  padding: 0px 20px 0.79px 919.94px;
+  display: flex;
+  flex-direction: column;
+  max-width: 1024px;
+  width: 1024px;
+  align-items: flex-end;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-muji-com-by-html .link-store-locator {
+  margin-left: -0.94px;
+  color: var(--wwwmujicomdove-gray);
+  text-align: right;
+  line-height: var(--www-muji-com-inter-regular-13-13-line-height);
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-muji-com-inter-regular-13-13-font-family);
+  font-weight: var(--www-muji-com-inter-regular-13-13-font-weight);
+  font-size: var(--www-muji-com-inter-regular-13-13-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-13-13-letter-spacing);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-regular-13-13-font-style);
+}
+
+.www-muji-com-by-html .div-shopwrap {
+  display: flex;
+  flex-direction: column;
+  max-width: 1024px;
+  width: 1024px;
+  align-items: flex-start;
+  position: absolute;
+  top: 32px;
+  left: 448px;
+}
+
+.www-muji-com-by-html .div-map {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 250px;
+}
+
+.www-muji-com-by-html .div-2 {
+  width: 1024px;
+  height: 250px;
+  background-color: var(--wwwmujicomwestar);
+}
+
+.www-muji-com-by-html .overlap-wrapper {
+  height: 250px;
+}
+
+.www-muji-com-by-html .overlap {
+  position: relative;
+  width: 1024px;
+  height: 1px;
+  top: 125px;
+  left: 512px;
+}
+
+.www-muji-com-by-html .div-3 {
+  position: absolute;
+  width: 1024px;
+  height: 1px;
+  top: 0;
+  left: 0;
+}
+
+.www-muji-com-by-html .div-4 {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  top: -171px;
+  left: -12px;
+}
+
+.www-muji-com-by-html .vt-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 256px;
+  height: 256px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: -512px;
+}
+
+.www-muji-com-by-html .vt {
+  position: relative;
+  width: 256px;
+  height: 256px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/vt-9@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .div-5 {
+  display: flex;
+  flex-direction: column;
+  width: 256px;
+  height: 256px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 256px;
+  left: -512px;
+}
+
+.www-muji-com-by-html .vt-2 {
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/vt-8@2x.png);
+  position: relative;
+  width: 256px;
+  height: 256px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .div-6 {
+  display: flex;
+  flex-direction: column;
+  width: 256px;
+  height: 256px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 256px;
+  left: 512px;
+}
+
+.www-muji-com-by-html .vt-3 {
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/vt-7@2x.png);
+  position: relative;
+  width: 256px;
+  height: 256px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .div-7 {
+  display: flex;
+  flex-direction: column;
+  width: 256px;
+  height: 256px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 512px;
+}
+
+.www-muji-com-by-html .vt-4 {
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/vt-6@2x.png);
+  position: relative;
+  width: 256px;
+  height: 256px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .div-8 {
+  display: flex;
+  flex-direction: column;
+  width: 256px;
+  height: 256px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 256px;
+  left: 256px;
+}
+
+.www-muji-com-by-html .vt-5 {
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/vt-5@2x.png);
+  position: relative;
+  width: 256px;
+  height: 256px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .div-9 {
+  display: flex;
+  flex-direction: column;
+  width: 256px;
+  height: 256px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 256px;
+  left: -256px;
+}
+
+.www-muji-com-by-html .vt-6 {
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/vt-4@2x.png);
+  position: relative;
+  width: 256px;
+  height: 256px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .div-10 {
+  display: flex;
+  flex-direction: column;
+  width: 256px;
+  height: 256px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 256px;
+  left: 0;
+}
+
+.www-muji-com-by-html .vt-7 {
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/vt-3@2x.png);
+  position: relative;
+  width: 256px;
+  height: 256px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .div-11 {
+  display: flex;
+  flex-direction: column;
+  width: 256px;
+  height: 256px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 256px;
+}
+
+.www-muji-com-by-html .vt-8 {
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/vt-2@2x.png);
+  position: relative;
+  width: 256px;
+  height: 256px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .div-12 {
+  display: flex;
+  flex-direction: column;
+  width: 256px;
+  height: 256px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: -256px;
+}
+
+.www-muji-com-by-html .vt-9 {
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/vt-1@2x.png);
+  position: relative;
+  width: 256px;
+  height: 256px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .div-13 {
+  display: flex;
+  flex-direction: column;
+  width: 256px;
+  height: 256px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-muji-com-by-html .vt-10 {
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/vt@2x.png);
+  position: relative;
+  width: 256px;
+  height: 256px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .overlap-2 {
+  position: absolute;
+  width: 36px;
+  height: 47px;
+  top: -158px;
+  left: -185px;
+}
+
+.www-muji-com-by-html .marker-red-default {
+  top: 0;
+  left: 0;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/marker-red-default-png-25@2x.png);
+  position: absolute;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .marker-red-default-2 {
+  top: 5px;
+  left: 3px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/marker-red-default-png-24@2x.png);
+  position: absolute;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .overlap-3 {
+  position: absolute;
+  width: 45px;
+  height: 53px;
+  top: -131px;
+  left: 113px;
+}
+
+.www-muji-com-by-html .marker-red-default-3 {
+  top: 0;
+  left: 12px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/marker-red-default-png-23@2x.png);
+  position: absolute;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .marker-red-default-4 {
+  top: 11px;
+  left: 0;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/marker-red-default-png-22@2x.png);
+  position: absolute;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .overlap-4 {
+  position: absolute;
+  width: 62px;
+  height: 60px;
+  top: -114px;
+  left: 8px;
+}
+
+.www-muji-com-by-html .marker-red-default-5 {
+  top: 0;
+  left: 9px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/marker-red-default-png-22@2x.png);
+  position: absolute;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .marker-red-default-6 {
+  top: 16px;
+  left: 0;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/marker-red-default-png-22@2x.png);
+  position: absolute;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .marker-red-default-7 {
+  top: 18px;
+  left: 29px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/marker-red-default-png-22@2x.png);
+  position: absolute;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .overlap-5 {
+  position: absolute;
+  width: 131px;
+  height: 136px;
+  top: -65px;
+  left: 82px;
+}
+
+.www-muji-com-by-html .overlap-group-2 {
+  position: absolute;
+  width: 74px;
+  height: 136px;
+  top: 0;
+  left: 0;
+}
+
+.www-muji-com-by-html .marker-red-default-8 {
+  position: absolute;
+  width: 33px;
+  height: 42px;
+  top: 0;
+  left: 24px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/marker-red-default-png-22@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .marker-red-default-9 {
+  top: 30px;
+  left: 15px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/marker-red-default-png-22@2x.png);
+  position: absolute;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .marker-red-default-10 {
+  top: 32px;
+  left: 5px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/marker-red-default-png-22@2x.png);
+  position: absolute;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .marker-red-default-11 {
+  top: 57px;
+  left: 20px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/marker-red-default-png-22@2x.png);
+  position: absolute;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .marker-red-default-12 {
+  top: 65px;
+  left: 16px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/marker-red-default-png-22@2x.png);
+  position: absolute;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .marker-red-default-13 {
+  top: 83px;
+  left: 0;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/marker-red-default-png-22@2x.png);
+  position: absolute;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .marker-red-default-14 {
+  top: 90px;
+  left: 41px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/marker-red-default-png-22@2x.png);
+  position: absolute;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .marker-red-default-15 {
+  top: 93px;
+  left: 36px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/marker-red-default-png-22@2x.png);
+  position: absolute;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .marker-red-default-16 {
+  top: 94px;
+  left: 11px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/marker-red-default-png-22@2x.png);
+  position: absolute;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .overlap-group-3 {
+  position: absolute;
+  width: 73px;
+  height: 113px;
+  top: 9px;
+  left: 58px;
+}
+
+.www-muji-com-by-html .marker-red-default-17 {
+  top: 0;
+  left: 0;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/marker-red-default-png-22@2x.png);
+  position: absolute;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .marker-red-default-18 {
+  top: 16px;
+  left: 22px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/marker-red-default-png-22@2x.png);
+  position: absolute;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .marker-red-default-19 {
+  top: 30px;
+  left: 40px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/marker-red-default-png-22@2x.png);
+  position: absolute;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .marker-red-default-20 {
+  top: 71px;
+  left: 28px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/marker-red-default-png-22@2x.png);
+  position: absolute;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .marker-red-default-21 {
+  top: -33px;
+  left: 238px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/marker-red-default-png-22@2x.png);
+  position: absolute;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .div-14 {
+  position: relative;
+  height: 1px;
+}
+
+.www-muji-com-by-html .transparent-png-wrapper {
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  width: 33px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+}
+
+.www-muji-com-by-html .transparent-png {
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/transparent-png-25@2x.png);
+  position: relative;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .button-MUJI {
+  display: flex;
+  flex-direction: column;
+  width: 33px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 5px;
+  left: 3px;
+}
+
+.www-muji-com-by-html .transparent-png-2 {
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/transparent-png-24@2x.png);
+  position: relative;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .button-hk-MUJI {
+  display: flex;
+  flex-direction: column;
+  width: 33px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 12px;
+}
+
+.www-muji-com-by-html .transparent-png-3 {
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/transparent-png-23@2x.png);
+  position: relative;
+  width: 33px;
+  height: 42px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .button-MUJI-2 {
+  display: flex;
+  flex-direction: column;
+  width: 33px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 11px;
+  left: 0;
+}
+
+.www-muji-com-by-html .transparent-png-4 {
+  position: relative;
+  width: 33px;
+  height: 42px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/transparent-png-22@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .button-MUJI-3 {
+  display: flex;
+  flex-direction: column;
+  width: 33px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 9px;
+}
+
+.www-muji-com-by-html .button-MUJI-to {
+  display: flex;
+  flex-direction: column;
+  width: 33px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 16px;
+  left: 0;
+}
+
+.www-muji-com-by-html .button-MUJI-4 {
+  display: flex;
+  flex-direction: column;
+  width: 33px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 18px;
+  left: 29px;
+}
+
+.www-muji-com-by-html .transparent-png-wrapper-2 {
+  top: 0;
+  left: 24px;
+  display: flex;
+  flex-direction: column;
+  width: 33px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+}
+
+.www-muji-com-by-html .button-MUJI-5 {
+  display: flex;
+  flex-direction: column;
+  width: 33px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 30px;
+  left: 15px;
+}
+
+.www-muji-com-by-html .transparent-png-wrapper-3 {
+  top: 32px;
+  left: 5px;
+  display: flex;
+  flex-direction: column;
+  width: 33px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+}
+
+.www-muji-com-by-html .button-MUJI-6 {
+  display: flex;
+  flex-direction: column;
+  width: 33px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 57px;
+  left: 20px;
+}
+
+.www-muji-com-by-html .transparent-png-wrapper-4 {
+  top: 65px;
+  left: 16px;
+  display: flex;
+  flex-direction: column;
+  width: 33px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+}
+
+.www-muji-com-by-html .button-hk-MUJI-to {
+  display: flex;
+  flex-direction: column;
+  width: 33px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 83px;
+  left: 0;
+}
+
+.www-muji-com-by-html .transparent-png-wrapper-5 {
+  top: 90px;
+  left: 41px;
+  display: flex;
+  flex-direction: column;
+  width: 33px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+}
+
+.www-muji-com-by-html .button-MUJI-7 {
+  display: flex;
+  flex-direction: column;
+  width: 33px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 93px;
+  left: 36px;
+}
+
+.www-muji-com-by-html .button-MUJI-8 {
+  display: flex;
+  flex-direction: column;
+  width: 33px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 94px;
+  left: 11px;
+}
+
+.www-muji-com-by-html .transparent-png-wrapper-6 {
+  top: 16px;
+  left: 22px;
+  display: flex;
+  flex-direction: column;
+  width: 33px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+}
+
+.www-muji-com-by-html .button-MUJI-9 {
+  display: flex;
+  flex-direction: column;
+  width: 33px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 30px;
+  left: 40px;
+}
+
+.www-muji-com-by-html .button-MUJI-10 {
+  display: flex;
+  flex-direction: column;
+  width: 33px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 71px;
+  left: 28px;
+}
+
+.www-muji-com-by-html .button-MUJI-11 {
+  display: flex;
+  flex-direction: column;
+  width: 33px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: -33px;
+  left: 238px;
+}
+
+.www-muji-com-by-html .section-5 {
+  height: 207.33px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-muji-com-by-html .overlap-6 {
+  position: absolute;
+  width: 1024px;
+  height: 24px;
+  top: -9px;
+  left: 448px;
+}
+
+.www-muji-com-by-html .heading-5 {
+  max-width: 1024px;
+  width: 1024px;
+  padding: 0px 936.45px 0px 0px;
+  position: absolute;
+  top: 9px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-28 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.45px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwmujicommine-shaft);
+  font-size: 14.4px;
+  letter-spacing: 0;
+  line-height: 15px;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .div-more-4 {
+  padding: 0px 20px 0.79px 933.2px;
+  display: flex;
+  flex-direction: column;
+  max-width: 1024px;
+  width: 1024px;
+  align-items: flex-end;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-muji-com-by-html .link-more-news {
+  margin-left: -0.2px;
+  font-size: var(--www-muji-com-inter-regular-13-13-font-size);
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-muji-com-inter-regular-13-13-font-family);
+  font-weight: var(--www-muji-com-inter-regular-13-13-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  text-align: right;
+  letter-spacing: var(--www-muji-com-inter-regular-13-13-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-13-13-line-height);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-regular-13-13-font-style);
+}
+
+.www-muji-com-by-html .div-wrap-3 {
+  align-items: center;
+  padding: 0px 0px 15px;
+  position: absolute;
+  top: 26px;
+  left: 448px;
+  display: flex;
+  flex-direction: column;
+  max-width: 1024px;
+  width: 1024px;
+}
+
+.www-muji-com-by-html .div-15 {
+  display: flex;
+  flex-direction: column;
+  width: 1024px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-muji-com-by-html .item-margin-27 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 55.58px;
+}
+
+.www-muji-com-by-html .item-32 {
+  width: 1024px;
+  gap: 4.3px;
+  padding: 0px 0px 0.69px;
+  position: relative;
+  top: -1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .span-date {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 957.5px 0.59px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-muji-com-by-html .text-wrapper-29 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.5px;
+  font-family: var(--www-muji-com-inter-regular-11-48-font-family);
+  font-weight: var(--www-muji-com-inter-regular-11-48-font-weight);
+  color: var(--wwwmujicomdusty-gray);
+  font-size: var(--www-muji-com-inter-regular-11-48-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-11-48-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-11-48-line-height);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-regular-11-48-font-style);
+}
+
+.www-muji-com-by-html .link-latest-store {
+  position: relative;
+  width: fit-content;
+  font-family: var(--www-muji-com-inter-regular-15-13-font-family);
+  font-weight: var(--www-muji-com-inter-regular-15-13-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-15-13-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-15-13-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-15-13-line-height);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-regular-15-13-font-style);
+}
+
+.www-muji-com-by-html .text-wrapper-30 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.5px;
+  font-family: var(--www-muji-com-inter-regular-11-68-font-family);
+  font-weight: var(--www-muji-com-inter-regular-11-68-font-weight);
+  color: var(--wwwmujicomdusty-gray);
+  font-size: var(--www-muji-com-inter-regular-11-68-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-11-68-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-11-68-line-height);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-regular-11-68-font-style);
+}
+
+.www-muji-com-by-html .link-delivery-charge {
+  position: relative;
+  width: fit-content;
+  font-family: var(--www-muji-com-inter-regular-15-font-family);
+  font-weight: var(--www-muji-com-inter-regular-15-font-weight);
+  color: var(--wwwmujicomdove-gray);
+  font-size: var(--www-muji-com-inter-regular-15-font-size);
+  letter-spacing: var(--www-muji-com-inter-regular-15-letter-spacing);
+  line-height: var(--www-muji-com-inter-regular-15-line-height);
+  white-space: nowrap;
+  font-style: var(--www-muji-com-inter-regular-15-font-style);
+}
+
+.www-muji-com-by-html .item-33 {
+  width: 1024px;
+  gap: 4.29px;
+  padding: 0px 0px 0.7px;
+  position: relative;
+  top: -1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .aside {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  padding: 15px 448px;
+  position: absolute;
+  top: 3005px;
+  left: 0;
+  background-color: #ebebeb;
+}
+
+.www-muji-com-by-html .div-content {
+  display: flex;
+  flex-direction: column;
+  max-width: 1024px;
+  width: 1024px;
+  align-items: flex-start;
+  padding: 0px 954px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-muji-com-by-html .list-7 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 10px;
+  padding: 0px 10px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-muji-com-by-html .item-link {
+  width: 25px;
+  justify-content: center;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .misc-facebook-png {
+  position: relative;
+  max-width: 25px;
+  width: 25px;
+  height: 25px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/misc-facebook-png@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .misc-instagram-png {
+  position: relative;
+  max-width: 25px;
+  width: 25px;
+  height: 25px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/misc-instagram-png@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-muji-com-by-html .footer {
+  position: absolute;
+  width: 1920px;
+  height: 293px;
+  top: 3060px;
+  left: 0;
+  background-color: var(--wwwmujicomblack);
+}
+
+.www-muji-com-by-html .nav {
+  display: flex;
+  flex-direction: column;
+  max-width: 1024px;
+  width: 1024px;
+  align-items: flex-start;
+  position: absolute;
+  top: 0;
+  left: 448px;
+}
+
+.www-muji-com-by-html .section-list {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 15px 614.8px 15px 0px;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-muji-com-by-html .link-product-wrapper {
+  width: 142.17px;
+  padding: 10px 20px 10px 0px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-31 {
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwmujicommercury);
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+  position: relative;
+}
+
+.www-muji-com-by-html .link-campaign-wrapper {
+  width: 83.83px;
+  padding: 10px 20px 10px 0px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .link-campaign {
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwmujicommercury);
+  font-size: 13.3px;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+  position: relative;
+}
+
+.www-muji-com-by-html .link-event-wrapper {
+  width: 55.81px;
+  padding: 10px 20px 10px 0px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-32 {
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.19px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwmujicommercury);
+  font-size: 13.5px;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+  position: relative;
+}
+
+.www-muji-com-by-html .link-store-wrapper {
+  width: 127.39px;
+  padding: 10px 20px 10px 0px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .link-store {
+  margin-right: -0.61px;
+  color: var(--wwwmujicommercury);
+  line-height: 14px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  font-size: 13.1px;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .section-list-2 {
+  justify-content: center;
+  padding: 16px 306.71px 15px 0px;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-color: #888888;
+}
+
+.www-muji-com-by-html .link-caf-meal-MUJI-wrapper {
+  width: 125.81px;
+  padding: 10px 20px 10px 0px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .link-MUJI-card-wrapper {
+  width: 86.91px;
+  padding: 10px 20px 10px 0px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .link-MUJI-card {
+  margin-right: -1.09px;
+  font-size: 13.5px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwmujicommercury);
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .link-MUJI-passport-wrapper {
+  width: 110.25px;
+  padding: 10px 20px 10px 0px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .link-MUJI-BOOKS-wrapper {
+  width: 106.36px;
+  padding: 10px 20px 10px 0px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .link-MUJI-BOOKS {
+  font-size: 13.9px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwmujicommercury);
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .link-open-MUJI-wrapper {
+  width: 90.81px;
+  padding: 10px 20px 10px 0px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .link-MUJI-HOTEL-wrapper {
+  width: 103.23px;
+  padding: 10px 20px 10px 0px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .link-MUJI-HOTEL {
+  margin-right: -0.77px;
+  font-size: 13.9px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwmujicommercury);
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .link-MUJI-to-GO-wrapper {
+  width: 93.91px;
+  padding: 10px 20px 10px 0px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .link-MUJI-to-GO {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -1.09px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwmujicommercury);
+  font-size: 13.6px;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .section-list-3 {
+  justify-content: center;
+  padding: 16px 599.32px 15px 0px;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-color: #888888;
+}
+
+.www-muji-com-by-html .link-news-wrapper {
+  width: 55.02px;
+  padding: 10px 20px 10px 0px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .link-news {
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.98px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwmujicommercury);
+  font-size: 13.1px;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+  position: relative;
+}
+
+.www-muji-com-by-html .link-message-from-wrapper {
+  width: 145.25px;
+  padding: 10px 20px 10px 0px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .link-message-from {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.75px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwmujicommercury);
+  font-size: 13.2px;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .link-about-MUJI-wrapper {
+  width: 93.14px;
+  padding: 10px 20px 10px 0px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .text-wrapper-33 {
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwmujicommercury);
+  font-size: 13.1px;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+  position: relative;
+}
+
+.www-muji-com-by-html .link-customer-wrapper {
+  width: 131.27px;
+  padding: 10px 20px 10px 0px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .section-list-4 {
+  flex-direction: column;
+  padding: 16px 874.81px 15px 0px;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-color: #888888;
+}
+
+.www-muji-com-by-html .div-wrapper-2 {
+  padding: 10px 20px 10px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .link-hong-kong {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.81px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwmujicommercury);
+  font-size: 13.5px;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .overlap-7 {
+  position: absolute;
+  width: 1024px;
+  height: 34px;
+  top: 259px;
+  left: 448px;
+}
+
+.www-muji-com-by-html .p-copyright {
+  display: flex;
+  flex-direction: column;
+  max-width: 1024px;
+  width: 1024px;
+  align-items: flex-start;
+  padding: 0px 835.7px 0px 0px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-muji-com-by-html .small-ryohin-keikaku {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #888888;
+  font-size: 13.3px;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .list-item-wrapper {
+  max-width: 1024px;
+  width: 1024px;
+  align-items: flex-start;
+  padding: 0px 628.75px 0px 188.3px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-muji-com-by-html .small-MUJI-hong-kong {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.05px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #888888;
+  font-size: 13.2px;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .header {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 70px;
+  align-items: center;
+  padding: 0px 448px 1px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.www-muji-com-by-html .div-headerwrap {
+  display: flex;
+  flex-direction: column;
+  max-width: 1024px;
+  width: 1024px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-muji-com-by-html .nav-2 {
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-muji-com-by-html .list-8 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 20px;
+  padding: 28px 54.22px 28px 163.59px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-muji-com-by-html .item-link-2 {
+  width: 114.67px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-muji-com-by-html .text-wrapper-34 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.33px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwmujicomdove-gray);
+  font-size: 12.3px;
+  letter-spacing: 0;
+  line-height: 13px;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .item-link-3 {
+  width: 113.45px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-muji-com-by-html .text-wrapper-35 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.55px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwmujicomdove-gray);
+  font-size: 12.1px;
+  letter-spacing: 0;
+  line-height: 13px;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .item-link-4 {
+  width: 71.55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-muji-com-by-html .text-wrapper-36 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.45px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwmujicomdove-gray);
+  font-size: 12.1px;
+  letter-spacing: 0;
+  line-height: 13px;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .item-link-5 {
+  width: 103.31px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-muji-com-by-html .text-wrapper-37 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwmujicomdove-gray);
+  font-size: 12.2px;
+  letter-spacing: 0;
+  line-height: 13px;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .item-link-6 {
+  width: 104.78px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-muji-com-by-html .text-wrapper-38 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.22px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwmujicomdove-gray);
+  font-size: 12.2px;
+  letter-spacing: 0;
+  line-height: 13px;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .item-link-7 {
+  width: 62.13px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-muji-com-by-html .text-wrapper-39 {
+  margin-right: -0.87px;
+  font-weight: 400;
+  color: var(--wwwmujicomdove-gray);
+  font-size: 12.5px;
+  line-height: 13px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .item-link-8 {
+  width: 77.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-muji-com-by-html .text-wrapper-40 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.7px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwmujicomdove-gray);
+  font-size: 12.4px;
+  letter-spacing: 0;
+  line-height: 13px;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .item-link-9 {
+  width: 19px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-muji-com-by-html .text-wrapper-41 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -33px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwmujicomdove-gray);
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: 13px;
+  white-space: nowrap;
+}
+
+.www-muji-com-by-html .heading-6 {
+  width: 130px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-muji-com-by-html .logo-muji-b-png-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 23.25px 0px 18.17px;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.www-muji-com-by-html .logo-muji-b-png {
+  position: relative;
+  align-self: stretch;
+  max-width: 130px;
+  width: 100%;
+  height: 20.58px;
+  background-image: url(https://c.animaapp.com/aFhwGizG/img/logo-muji-b-png@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}

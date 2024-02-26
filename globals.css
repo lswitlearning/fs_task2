@@ -1,0 +1,19 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:var(--www-muji-com-inter-regular-11-44-font-weight),var(--www-muji-com-inter-bold-15-25-font-weight),var(--www-muji-com-inter-regular-11-48-font-weight),var(--www-muji-com-inter-regular-15-font-weight),var(--www-muji-com-inter-bold-14-75-font-weight),var(--www-muji-com-inter-bold-15-38-font-weight),var(--www-muji-com-inter-regular-10-13-font-weight),var(--www-muji-com-inter-bold-14-88-font-weight),var(--www-muji-com-inter-bold-15-13-font-weight),400,var(--www-muji-com-inter-regular-10-5-font-weight),var(--www-muji-com-inter-bold-15-5-font-weight),var(--www-muji-com-inter-regular-11-25-font-weight),var(--www-muji-com-inter-bold-20-02-font-weight),var(--www-muji-com-inter-bold-14-63-font-weight),var(--www-muji-com-inter-regular-13-13-font-weight),var(--www-muji-com-inter-regular-11-06-font-weight),var(--www-muji-com-inter-bold-15-font-weight),var(--www-muji-com-inter-regular-13-34-font-weight),var(--www-muji-com-inter-regular-11-68-font-weight),var(--www-muji-com-inter-regular-11-63-font-weight),700,var(--www-muji-com-inter-regular-15-13-font-weight)");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
